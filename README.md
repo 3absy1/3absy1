@@ -16,7 +16,7 @@ I'm a Back-end Developer based in Elobour, Egypt. I specialize in creating robus
 ## 🔧 Technologies & Tools
 - PHP (Laravel)
 - MySQL
-- JavaScript (ES6+)
+- JavaScript
 - HTML5 & CSS3 
 - Git & GitHub
 - Others: RESTful API Design, JWT Authentication, Middleware
