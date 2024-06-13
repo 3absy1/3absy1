@@ -17,12 +17,12 @@ I'm a Back-end Developer based in Elobour, Egypt. I specialize in creating robus
 - PHP (Laravel)
 - MySQL
 - JavaScript (ES6+)
-- HTML5 & CSS3 (SASS/SCSS)
+- HTML5 & CSS3 
 - Git & GitHub
 - Others: RESTful API Design, JWT Authentication, Middleware
 
 ## 📫 How to reach me:
-- LinkedIn: [LinkedIn]([http://github.com](https://www.linkedin.com/in/yousef-abdelsalam-8b0b1820b))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yousef-abdelsalam-8b0b1820b)
 - Email: [yossfeabdaslm123@gmail.com](yossfeabdaslm123@gmail.com)
 - Phone: 01224888722
 
