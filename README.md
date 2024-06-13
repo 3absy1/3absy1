@@ -4,25 +4,25 @@ I'm a Back-end Developer based in Elobour, Egypt. I specialize in creating robus
 
 🚀 I specialize in:
 
-. Developing RESTful APIs for websites and mobile applications
-. Building and managing comprehensive dashboards
-. Implementing backend logic and functionalities
-. Integrating third-party services and APIs
-. Optimizing database queries and ensuring data integrity
-. Enhancing security measures for applications
-. Providing continuous support and maintenance for backend systems
+- Developing RESTful APIs for websites and mobile applications
+- Building and managing comprehensive dashboards
+- Implementing backend logic and functionalities
+- Integrating third-party services and APIs
+- Optimizing database queries and ensuring data integrity
+- Enhancing security measures for applications
+- Providing continuous support and maintenance for backend systems
 
 
 ## 🔧 Technologies & Tools
-. PHP (Laravel)
-. MySQL
-. JavaScript (ES6+)
-. HTML5 & CSS3 (SASS/SCSS)
-. Git & GitHub
-. Others: RESTful API Design, JWT Authentication, Middleware
+- PHP (Laravel)
+- MySQL
+- JavaScript (ES6+)
+- HTML5 & CSS3 (SASS/SCSS)
+- Git & GitHub
+- Others: RESTful API Design, JWT Authentication, Middleware
 
 ##📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/yousef-abdelsalam-8b0b1820b
+LinkedIn: LinkedIn
 Email: yossfeabdaslm123@gmail.com
 
 <!--
