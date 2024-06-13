@@ -22,8 +22,9 @@ I'm a Back-end Developer based in Elobour, Egypt. I specialize in creating robus
 - Others: RESTful API Design, JWT Authentication, Middleware
 
 ##📫 How to reach me:
-LinkedIn: LinkedIn
-Email: yossfeabdaslm123@gmail.com
+- LinkedIn: [LinkedIn]([http://github.com](https://www.linkedin.com/in/yousef-abdelsalam-8b0b1820b))
+- Email: [yossfeabdaslm123@gmail.com](yossfeabdaslm123@gmail.com)
+- Phone: 01224888722
 
 <!--
 **3absy1/3absy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
